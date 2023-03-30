@@ -1,0 +1,265 @@
+
+.img1 {
+  padding-top: 100px;
+  padding-left: 57px
+}
+
+.img2 {                /*прописать джс*/
+position: absolute;
+left: 932px;
+top: 596px;
+}
+.img2 {
+  display: inline-block;
+
+}
+.img2 img {
+  transition: 1s;
+  display: block;
+}
+.img2 img:hover {
+  transform: scale(1.2);
+}
+
+.txt1 {
+  position: absolute;
+  font-size: 64px;
+  left: 795px;
+  top: 318px;
+}
+
+.gala1 {
+  position: absolute;
+  left: 814px;
+  top: 976px;
+}
+
+.img3 {
+  position: absolute;
+  left: 54px;
+  top: 1101px;
+}
+
+.line1 {
+  position: absolute;
+  left: 102px;
+  top: 1768px;
+}
+
+.txt2 {
+  position: absolute;
+  font-size: 40px;
+  left: 175px;
+  top: 1185px;
+  align-content: center;
+}
+
+.gala2 {
+  position: absolute;
+  left: 1157px;
+  top: 2414px;
+}
+
+.img4 {
+  position: absolute;
+  left: 721px;
+  top: 2383px;
+
+}
+
+.heart {
+  position: absolute;
+  left: 61px;
+  top: 1961px;
+}
+
+.line2 {
+  position: absolute;
+  left: 102px;
+  top: 2713px;
+}
+
+.txt3 {
+  position: absolute;
+  font-size: 40px;
+  left: 760px;
+  top: 2438px;
+
+}
+
+.txt4 {
+  position: absolute;
+  font-size: 24px;
+  left: 102px;
+  top: 2670px;
+}
+
+.element1 {
+ position: absolute;
+  left: 315px;
+  top: 1868px;
+}
+.element2 {
+ position: absolute;
+  left: 1118px;
+  top: 1990px;
+}
+.element3 {
+ position: absolute;
+  left: 689px;
+  top: 2092px;
+}
+
+.element4 {
+ position: absolute;
+  left: 559px;
+  top: 1846px;
+}
+
+.element5 {
+ position: absolute;
+  left: 879px;
+  top: 1948px;
+}
+
+.gala3 {
+  position: absolute;
+   left: 824px;
+   top: 2867px;
+}
+
+.img5 {
+  position: absolute;
+   left: 51px;
+   top: 2805px;
+}
+
+.r2 {
+  position: absolute;
+   left: 109px;
+   top: 3254px;
+}
+
+.r3 {
+  position: absolute;
+   left: 109px;
+   top: 3452px;
+}
+
+.r1 {
+  position: absolute;
+  left: 96px;
+  top: 3338px;
+}
+
+.txt5 {
+  position: absolute;
+  font-size: 40px;
+  left: 171px;
+  top: 2925px;
+}
+
+.bl{
+  position: absolute;
+  font-size: 40px;
+  left: 209px;
+  top: 3253px;
+}
+.zl{
+  position: absolute;
+  font-size: 40px;
+  left: 209px;
+  top: 3351px;
+}
+.nn{
+  position: absolute;
+  font-size: 40px;
+  left: 209px;
+  top: 3451px;
+}
+.line3 {
+  position: absolute;
+  left: 102px;
+  top: 3662px;
+}
+
+.gala {
+  position: absolute;
+  left: 1030px;
+  top: 4182px;
+}
+
+.bin {
+  position: absolute;
+  left: 296px;
+  top: 4174px;
+}
+
+.pic {
+  position: absolute;
+  left: 234px;
+  top: 3840px;
+}
+
+.line4{
+  position: absolute;
+  left: 102px;
+  top: 4677px;
+}
+
+.img6 {
+  position: absolute;
+  left: 644px;
+  top: 3808px;
+}
+
+.txt6 {
+  position: absolute;
+  font-size: 40px;
+  left: 760px;
+  top: 3873px;
+}
+
+.txt7 {
+  position: absolute;
+  font-size: 24px;
+  left: 102px;
+  top: 4628px;
+}
+
+.gala22 {
+  position: absolute;
+  left: 1030px;
+  top: 5207px;
+}
+
+.mss {
+  position: absolute;
+  left: 142px;
+  top: 5234px;
+}
+
+.pp4 {
+  position: absolute;
+  left: 643px;
+  top: 4833px;
+}
+
+.line5 {
+  position: absolute;
+  left: 102px;
+  top: 5709px;
+}
+
+.txt8 {
+  position: absolute;
+  font-size: 40px;
+  left: 690px;
+  top: 4923px;
+}
+.txt9 {
+  position: absolute;
+  font-size: 24px;
+  left: 102px;
+  top: 5664px;
+}
