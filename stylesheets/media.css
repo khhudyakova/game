@@ -140,16 +140,49 @@ top: 596px;
    top: 3254px;
 }
 
+.r2 img {
+  transition: 1s;
+  display: block;
+}
+.r2 img:hover {
+  transform: scale(1.2);
+}
+
+
 .r3 {
   position: absolute;
    left: 109px;
    top: 3452px;
 }
 
+.r3 {
+  display: inline-block;
+
+}
+.r3 img {
+  transition: 1s;
+  display: block;
+}
+.r3 img:hover {
+  transform: scale(1.2);
+}
+
 .r1 {
   position: absolute;
   left: 96px;
   top: 3338px;
+}
+
+.r1 {
+  display: inline-block;
+
+}
+.r1 img {
+  transition: 1s;
+  display: block;
+}
+.r1 img:hover {
+  transform: scale(1.2);
 }
 
 .txt5 {
@@ -195,7 +228,7 @@ top: 596px;
   top: 4174px;
 }
 
-.pic {
+.pic {  /* прописать js*/ 
   position: absolute;
   left: 234px;
   top: 3840px;
@@ -233,7 +266,7 @@ top: 596px;
   top: 5207px;
 }
 
-.mss {
+.mss {    /* прописать js*/ 
   position: absolute;
   left: 142px;
   top: 5234px;
